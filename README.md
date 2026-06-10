@@ -87,4 +87,6 @@ Phased and conditional — each phase is worth doing only if the previous one va
 
 ## License and feedback
 
-No license has been chosen yet. Questions, critiques, and pointers to related work are welcome via issues.
+This work is licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE) license. You may share and adapt the material for any purpose, provided you give appropriate credit — suggested attribution: "rster4llm by Marcos Angelini (angelini75), CC BY 4.0".
+
+Questions, critiques, and pointers to related work are welcome via issues.
