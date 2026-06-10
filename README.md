@@ -2,6 +2,8 @@
 
 Research notes on optimal ingestion of geospatial data — rasters, vectors and imagery — into Large Language Model (LLM) environments, with a focus on Digital Soil Mapping (DSM) and Earth Observation workflows.
 
+![Graphical abstract — geospatial data compressed into LLM-ready representations, with function calling over cloud-native ground-truth storage](graphical-abstract.svg)
+
 The repository collects three independent deep-research syntheses on the same question, produced with different AI research assistants, for comparison and cross-validation:
 
 | Document | Source |
